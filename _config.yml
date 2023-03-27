@@ -1,5 +1,5 @@
 title: My Portfolio Site
 description: This website briefly tells about me, projects and qualification.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
